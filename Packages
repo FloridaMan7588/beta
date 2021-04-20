@@ -1,14 +1,14 @@
-Package: com.floridaman.example_beta
-Name: Example Beta Package
-Version: 1.0
+Package: com.floridaman.mineos
+Name: MineOS
+Version: 0.1
 Architecture: iphoneos-arm
-Description: A filler package to be used as an example.
+Description: My first theme, based around Minecraft.
 Maintainer: FloridaMan (floridaman7588@gmail.com)
 Author: FloridaMan
-Section: Tweaks
-Depends:
-Filename: debs/example_beta.deb
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/com.floridaman.mineos.deb
 Size: 10000
-MD5sum:
+MD5sum: 
 SHA1:
 SHA256:
