@@ -1,0 +1,14 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{296, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+      {
+          "url": "https://cdn.discordapp.com/attachments/706582923956060172/834855305040887828/a.png",
+          "title": "MineOS",
+          "package": "com.floridaman.mineos",
+          "hideShadow": false
+      }
+    ]
+  }
+  
