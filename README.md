@@ -1,3 +1,7 @@
+# Archived 
+This repository is now archived, as it's contents are now avaliable at https://floridaman7588.me/beta
+It will remain public, but will be inaccessible by anyone.
+
 # Cydia beta repo
 A cydia repo made by FloridaMan.
 This is a public repo that holds FloridaMans betas for tweaks, themes, and other cydia programs
@@ -7,7 +11,6 @@ There are also other repos on my github profile holding other programs ive made 
 
 
 
-You can contact FloridaMan at floridaman75@gmail.com
+You can contact FloridaMan at floridaman7588@gmail.com
 via dms on discord at Florida Man#7480
-via reddit dms at u/Cade7588
 or via Twitter @FloridaMan7588
